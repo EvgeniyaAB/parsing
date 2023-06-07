@@ -1,0 +1,9 @@
+bs4
+requests
+BeautifulSoup
+Headers
+time
+codecs
+lxml
+json
+tqdm
